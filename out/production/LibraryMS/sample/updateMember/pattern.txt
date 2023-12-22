@@ -1,0 +1,15 @@
+Interface Implementation:
+
+updateMemberController implements Initializable: This class implements the Initializable interface, a common pattern in JavaFX for controllers. This necessitates the implementation of the initialize method, which is typically used to set up initial conditions, such as establishing database connections or initializing UI components.
+Singleton Pattern:
+
+Usage of DataBaseHandler.getInstance() in the initialize method: This indicates that DataBaseHandler is a Singleton, and the class is accessing its single instance. The Singleton pattern is used here to ensure that only one instance of DataBaseHandler is created and used across the application, which is particularly useful for managing shared resources like database connections.
+Command Pattern:
+
+The execAction and execQuery methods of DataBaseHandler: Although not directly visible in this class, these methods, called within the updatebuttonHandler method, are examples of the Command pattern. They encapsulate a database operation as an object (in this case, SQL queries), allowing for more flexible and reusable database interactions.
+Observer Pattern (Event Handling):
+
+The methods annotated with @FXML, such as updatebuttonHandler and cancelbuttonHandler, represent the Observer pattern. In JavaFX, these methods are linked to UI events (like button clicks), and they react to those events, making them observers of the event sources (buttons, text fields, etc.).
+Model-View-Controller (MVC) Pattern:
+
+This class acts as the 'Controller' in the MVC architectural pattern. It handles user input, interacts with the 'Model' (DataBaseHandler), and updates the 'View' (the user interface defined in the associated FXML file). The MVC pattern helps in separating the concerns and making the application more organized and maintainable.

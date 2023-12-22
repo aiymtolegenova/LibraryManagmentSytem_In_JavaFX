@@ -1,0 +1,129 @@
+Tue Dec 19 04:47:04 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\Dias\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Tue Dec 19 04:47:05 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Tue Dec 19 04:47:05 ALMT 2023:каталог журнала скопирован из C:\Users\Dias\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Tue Dec 19 04:47:05 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,84384) 
+
+Tue Dec 19 04:51:30 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\Dias\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Tue Dec 19 04:51:30 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Tue Dec 19 04:51:30 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Tue Dec 19 04:51:30 ALMT 2023:каталог журнала скопирован из C:\Users\Dias\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Tue Dec 19 04:51:30 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Tue Dec 19 04:51:30 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,86835) 
+
+Thu Dec 21 02:01:36 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Thu Dec 21 02:01:37 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Thu Dec 21 02:01:37 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Thu Dec 21 02:01:37 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,98004) 
+
+Thu Dec 21 02:02:51 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Thu Dec 21 02:02:51 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Thu Dec 21 02:02:51 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Thu Dec 21 02:02:51 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Thu Dec 21 02:02:51 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Thu Dec 21 02:02:51 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,98253) 
+
+Thu Dec 21 02:05:24 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Thu Dec 21 02:05:24 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Thu Dec 21 02:05:24 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Thu Dec 21 02:05:24 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Thu Dec 21 02:05:24 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Thu Dec 21 02:05:24 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,98469) 
+
+Fri Dec 22 01:28:06 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:28:06 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:28:07 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:28:07 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:28:07 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:28:07 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,102433) 
+
+Fri Dec 22 01:44:04 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:44:04 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:05 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:44:05 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:44:05 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:05 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,103718) 
+
+Fri Dec 22 01:44:38 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:44:38 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:38 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:44:38 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:44:38 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:38 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,103934) 
+
+Fri Dec 22 01:44:43 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:44:43 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:43 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:44:43 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:44:43 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:43 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,104150) 
+
+Fri Dec 22 01:44:58 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:44:58 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:58 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:44:59 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:44:59 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:44:59 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,104366) 
+
+Fri Dec 22 01:45:29 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:45:29 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:45:29 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:45:29 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:45:29 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:45:29 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,104827) 
+
+Fri Dec 22 01:56:00 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 01:56:00 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:56:01 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 01:56:01 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 01:56:01 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 01:56:01 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,105705) 
+
+Fri Dec 22 02:01:12 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:01:12 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:01:12 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:01:12 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:01:12 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:01:12 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,105921) 
+
+Fri Dec 22 02:01:52 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:01:52 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:01:52 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:01:52 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:01:52 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:01:52 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,106343) 
+
+Fri Dec 22 02:02:13 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:02:13 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:02:13 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:02:13 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:02:13 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:02:13 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,106559) 
+
+Fri Dec 22 02:37:33 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:37:33 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:33 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:37:33 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:37:33 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:33 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,108793) 
+
+Fri Dec 22 02:37:40 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:37:40 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:40 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:37:40 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:37:40 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:40 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,109042) 
+
+Fri Dec 22 02:37:42 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:37:42 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:43 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:37:43 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:37:43 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:43 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,109258) 
+
+Fri Dec 22 02:37:47 ALMT 2023:Запущено резервное копирование для базы данных, находящейся в C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database, в D:\db_Backups\5\database.
+Fri Dec 22 02:37:47 ALMT 2023:прежняя резервная копия перемещена из D:\db_Backups\5\database в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:47 ALMT 2023:резервное копирование сегмента данных в D:\db_Backups\5\database\seg0 завершено. 
+Fri Dec 22 02:37:47 ALMT 2023:каталог журнала скопирован из C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database\log в D:\db_Backups\5\database\log
+Fri Dec 22 02:37:47 ALMT 2023:удалена старая резервная копия в D:\db_Backups\5\database.OLD
+Fri Dec 22 02:37:47 ALMT 2023:Резервное копирование завершено; момент времени в журнале: (1,109474) 
+

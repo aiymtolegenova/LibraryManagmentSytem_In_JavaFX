@@ -1,0 +1,12 @@
+Singleton Pattern:
+
+The class uses the Singleton pattern, which is evident from the getInstance method. This pattern ensures that only one instance of DataBaseHandler is created and shared within the application. The private static handler variable holds this single instance, and getInstance provides a global access point to it. The Singleton pattern is useful for managing resources like database connections, which typically should not be duplicated.
+Factory Methods:
+
+The methods setupBook, setupMember, and setupIssueTable act as factory methods. These methods encapsulate the logic for creating tables in the database. By isolating the table creation logic in these methods, the class adheres to the principle of single responsibility and makes the code more maintainable.
+Command Pattern:
+
+The execAction and execQuery methods implement the Command pattern. They encapsulate a request as an object, thereby allowing for parameterization of clients with different requests, and support operations like logging and transactional behavior. The execAction method is used for executing SQL commands that don't return a ResultSet (like INSERT or DELETE), while execQuery is used for SQL commands that return a ResultSet (like SELECT).
+Resource Management:
+
+The methods createConnection, execAction, and execQuery manage resources, specifically database connections and statements. This is not a design pattern per se but a common practice in database handling to ensure efficient use of resources and proper error management.

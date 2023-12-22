@@ -1,0 +1,19 @@
+Inheritance:
+
+Controller extends DataBaseHandler: This use of inheritance allows the Controller class to inherit methods and properties from DataBaseHandler. This is a form of code reuse and can enhance functionality.
+Interface Implementation:
+
+Controller implements Initializable: The class implements the Initializable interface from JavaFX, necessitating the implementation of the initialize method. This method is used for initialization logic when the controller is created.
+Factory Pattern:
+
+loadWindow method: Acts as a factory method for creating and displaying new stages (windows) based on provided FXML files. It abstracts the instantiation process of Stage objects, providing a centralized method to handle the creation of new windows.
+Observer Pattern (Event Handling):
+
+Methods annotated with @FXML, such as loadAddBook, loadMemberInfo, and others, are examples of the Observer pattern. These methods respond to user interactions (events) in the GUI, like button clicks or text input, and execute defined actions.
+Singleton Pattern (Indirectly inferred):
+
+Usage of DataBaseHandler.getInstance() in the initialize method: This suggests that DataBaseHandler is implemented as a Singleton, ensuring that only one instance of this class is created and used throughout the application.
+Model-View-Controller (MVC) Pattern (Architectural Pattern):
+
+While not a single piece of code, the overall structure of separating the application logic (Controller), the user interface (FXML files), and the data handling (DataBaseHandler) aligns with the MVC pattern. This pattern is key in organizing the codebase for clarity and separation of concerns.
+These patterns in your Controller class contribute to a w

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 22 11:14:05 ALMT 2023:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): экземпляр a816c00e-018c-8ff1-e933-0000054e9980
+в каталоге базы данных C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX\database sun.misc.Launcher$AppClassLoader@18b4aac2 
+
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_362-b08
+user.dir=C:\Users\user\Desktop\Dilmurod_Zaitkhanov\LibraryManagmentSytem_In_JavaFX
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
